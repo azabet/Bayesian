@@ -1,0 +1,10 @@
+Written by Amir Zabet
+Updated on 4/18/2014
+
+A series of codes in R or C++ for executing OpenBUGS.
+
+"myBUGS.R" is an R script which creates a batch file of BUGS commands 
+and executes it with OpenBUGS.
+
+"myBUGS.cpp" is a C++ script which links to the OpenBUGS dynamic library 
+and executes OpenBUGS commands.
